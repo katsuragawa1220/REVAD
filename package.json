@@ -1,0 +1,28 @@
+{
+  "name": "revad",
+  "version": "1.0.0",
+  "description": "REview Adviser Bot for IF statement in Pull Request",
+  "author": "ikuyadeu",
+  "license": "MIT",
+  "repository": "https://github.com/REVAD-Bot/REVAD.git",
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "mocha && xo --extend probot"
+  },
+  "dependencies": {
+    "probot": "^0.7.2",
+    "csv": "^2.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "eslint": "^4.17.0",
+    "localtunnel": "^1.8.2",
+    "mocha": "^3.5.3",
+    "xo": "^0.18.0"
+  },
+  "engines": {
+    "node": ">= 7.7.0",
+    "npm": ">= 4.0.0"
+  }
+}
