@@ -1,0 +1,8 @@
+node_modules
+.env
+npm-debug.log
+*.pem
+issues.csv
+pulls.csv
+issues.json
+pulls.json
