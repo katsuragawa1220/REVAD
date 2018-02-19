@@ -10,7 +10,7 @@
     "test": "mocha && xo --extend probot"
   },
   "dependencies": {
-    "probot": "^0.7.2",
+    "probot": "0.7.2",
     "csv": "^2.0.0",
     "fs": "^0.0.1-security"
   },
