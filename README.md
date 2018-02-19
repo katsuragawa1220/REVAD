@@ -5,7 +5,7 @@
 ## Usage
 
 * Need Node(>= 7.7.0), npm(>= 4.0.0), git
-* Please see CONTRIBUTION.md
+* Please see CONTRIBUTING.md
 
 ## More detail about REVAD
 
